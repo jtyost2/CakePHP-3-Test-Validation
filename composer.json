@@ -1,0 +1,11 @@
+{
+  "name": "jtyost2/test-validation",
+  "description": "Sample App to demonstrate using the CakePHP 3.0 Validation Library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "cakephp/validation": "~3.0"
+  },
+  "require-dev": {
+  }
+}
