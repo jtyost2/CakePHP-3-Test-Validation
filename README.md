@@ -1,7 +1,6 @@
 # CakePHP-3-Test-Validation
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://travis-ci.org/loadsys/{PLUGIN_NAME}.svg?branch=master&style=flat-square)](https://travis-ci.org/loadsys/CakePHP-SocialLinks)
 
 Basic ability to load and use the CakePHP Validation Library
 
