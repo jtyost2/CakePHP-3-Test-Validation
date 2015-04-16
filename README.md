@@ -12,7 +12,7 @@ Basic ability to load and use the CakePHP Validation Library
 
 * Clone or download to a directory of your choice.
 * Install composer dependencies: `composer install`
-* Start the PHP CL server `php -s localhost:8080`
+* Start the PHP CL server `php -S localhost:8080`
 * You should be able to submit the form and see validation messages display.
 
 ## Contributing
